@@ -1,0 +1,19 @@
+{
+  "name": "resturant",
+  "version": "1.0.0",
+  "description": "Food Ordering App",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "Making",
+    "Food",
+    "Ordering",
+    "app",
+    "with",
+    "React"
+  ],
+  "author": "Mohit Kumar Gupta",
+  "license": "ISC"
+}
