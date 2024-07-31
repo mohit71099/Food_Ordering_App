@@ -42,3 +42,8 @@
    padding: 5px;
    height: 150px;
 }
+.filter-btn{
+    padding: 3px;
+    margin: 10px;
+    cursor: pointer;
+}
